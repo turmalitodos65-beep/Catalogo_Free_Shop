@@ -53,5 +53,82 @@
         "tamanho_mb": 20000,
         "imagem_color": "#106AB9",
         "descricao": "Editor de fotos dominante no mercado Global."
-    }
+    },
+    {
+    "id": "coin_01",
+    "nome": "500 Robux",
+    "criador": "Roblox Corporation",
+    "categoria": "Moeda",
+    "subcategoria": "Roblox",
+    "quantidade_moedas": 500,
+    "nome_moeda": "500 ⏣",
+    "imagem_color": "#06B6D4",
+    "descricao": "Pacote de 500 Robux."
+    },
+    {
+    "id": "coin_02",
+    "nome": "1000 Robux",
+    "criador": "Roblox Corporation",
+    "categoria": "Moeda",
+    "subcategoria": "Roblox",
+    "quantidade_moedas": 1000,
+    "nome_moeda": "1000 ⏣",
+    "imagem_color": "#06B6D4",
+    "descricao": "Pacote de 1000 Robux."
+    },
+    {
+    "id": "coin_03",
+    "nome": "2000 Robux",
+    "criador": "Roblox Corporation",
+    "categoria": "Moeda",
+    "subcategoria": "Roblox",
+    "quantidade_moedas": 2000,
+    "nome_moeda": "2000 ⏣",
+    "imagem_color": "#06B6D4",
+    "descricao": "Pacote de 2000 Robux."
+    },
+    {
+    "id": "coin_04",
+    "nome": "5000 Robux",
+    "criador": "Roblox Corporation",
+    "categoria": "Moeda",
+    "subcategoria": "Roblox",
+    "quantidade_moedas": 5000,
+    "nome_moeda": "5000 ⏣",
+    "imagem_color": "#06B6D4",
+    "descricao": "Pacote de 5000 Robux."
+    },
+    {
+    "id": "coin_05",
+    "nome": "10000 Robux",
+    "criador": "Roblox Corporation",
+    "categoria": "Moeda",
+    "subcategoria": "Roblox",
+    "quantidade_moedas": 10000,
+    "nome_moeda": "10000 ⏣",
+    "imagem_color": "#06B6D4",
+    "descricao": "Pacote de 10000 Robux."
+    },
+    {
+    "id": "coin_06",
+    "nome": "25000 Robux",
+    "criador": "Roblox Corporation",
+    "categoria": "Moeda",
+    "subcategoria": "Roblox",
+    "quantidade_moedas": 25000,
+    "nome_moeda": "25000 ⏣",
+    "imagem_color": "#06B6D4",
+    "descricao": "Pacote de 25000 Robux."
+    },
+    {
+    "id": "coin_07",
+    "nome": "50000 Robux",
+    "criador": "Roblox Corporation",
+    "categoria": "Moeda",
+    "subcategoria": "Roblox",
+    "quantidade_moedas": 50000,
+    "nome_moeda": "50000 ⏣",
+    "imagem_color": "#06B6D4",
+    "descricao": "Pacote de 50000 Robux."
+    },
 ]
