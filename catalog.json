@@ -130,5 +130,15 @@
         "nome_moeda": "⏣",
         "imagem_color": "#06B6D4",
         "descricao": "Pacote de 50000 Robux."
+    },
+    {
+        "id": "item_01",
+        "nome": "Headless Horseman",
+        "criador": "Roblox Corporation",
+        "categoria": "Item",
+        "subcategoria": "Roblox",
+        "icone": "🚀",
+        "imagem_color": "#EAB308",
+        "descricao": "Sério, você tem que acreditar. Era um cavaleiro, morto. Sem cabeça."
     }
 ]
