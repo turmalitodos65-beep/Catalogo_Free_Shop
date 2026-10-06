@@ -1,0 +1,57 @@
+[
+    {
+        "id": "game_01",
+        "nome": "GTA VI Standart Edition",
+        "criador": "Rockstar Studios",
+        "categoria": "Jogo",
+        "subcategoria": "Mundo Aberto",
+        "classificacao": "+18",
+        "tamanho_mb": 153600,
+        "imagem_color": "#3B82F6",
+        "descricao": "Grand Theft Auto VI é a evolução definitiva da aclamada franquia de ação e aventura em mundo aberto da Rockstar Games, desenhado para extrair o máximo poder tecnológico das consolas de nova geração. \n O jogo estabelece um novo padrão para narrativas criminais integradas e simulação de ecossistemas urbanos e naturais."
+    },
+    {
+        "id": "game_02",
+        "nome": "GTA VI Ultimate Edition",
+        "criador": "Rockstar Studios",
+        "categoria": "Jogo",
+        "subcategoria": "Mundo Aberto",
+        "classificacao": "+18",
+        "tamanho_mb": 204800,
+        "imagem_color": "#A208A4",
+        "descricao": "Grand Theft Auto VI é a evolução definitiva da aclamada franquia de ação e aventura em mundo aberto da Rockstar Games, desenhado para extrair o máximo poder tecnológico das consolas de nova geração. \n O jogo estabelece um novo padrão para narrativas criminais integradas e simulação de ecossistemas urbanos e naturais."
+    },
+    {
+        "id": "game_03",
+        "nome": "Minecraft",
+        "criador": "Mojang Studios",
+        "categoria": "Jogo",
+        "subcategoria": "Single/Multi Player",
+        "classificacao": "Livre",
+        "tamanho_mb": 8000,
+        "imagem_color": "#EC4899",
+        "descricao": "Minecraft, um classico."
+    },
+    {
+        "id": "game_04",
+        "nome": "Roblox",
+        "criador": "Roblox Corporation",
+        "categoria": "Jogo",
+        "subcategoria": "Mundo Aberto",
+        "classificacao": "Livre",
+        "tamanho_mb": 1000,
+        "imagem_color": "#1915F6",
+        "descricao": "Jogue mais de 1B de jogos no Roblox."
+    },
+    {
+        "id": "app_01",
+        "nome": "Photoshop",
+        "criador": "Adobe",
+        "categoria": "Aplicativo",
+        "subcategoria": "Edição de Fotos",
+        "classificacao": "Livre",
+        "tamanho_mb": 20000,
+        "imagem_color": "#106AB9",
+        "descricao": "Editor de fotos dominante no mercado Global."
+    }
+]
