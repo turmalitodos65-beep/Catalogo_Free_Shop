@@ -138,6 +138,7 @@
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Sério, você tem que acreditar. Era um cavaleiro, morto. Sem cabeça."
     },
@@ -148,6 +149,7 @@
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "A tribo dele é considerada por muitos a melhor entre as doze tribos de Korblox. Ninguém ousa desafiar a autoridade dele."
     },
