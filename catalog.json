@@ -140,5 +140,75 @@
         "icone": "🚀",
         "imagem_color": "#EAB308",
         "descricao": "Sério, você tem que acreditar. Era um cavaleiro, morto. Sem cabeça."
+    },
+    {
+        "id": "item_02",
+        "nome": "Korblox",
+        "criador": "Roblox Corporation",
+        "categoria": "Item",
+        "subcategoria": "Roblox",
+        "icone": "🚀",
+        "imagem_color": "#EAB308",
+        "descricao": "A tribo dele é considerada por muitos a melhor entre as doze tribos de Korblox. Ninguém ousa desafiar a autoridade dele."
+    },
+    {
+        "id": "item_03",
+        "nome": "Dominus Empyreus FVM",
+        "criador": "Roblox Corporation",
+        "categoria": "Item",
+        "subcategoria": "Roblox",
+        "icone": "🚀",
+        "imagem_color": "#EAB308",
+        "descricao": "Fazer a peça pessoalmente custa apenas 1/100 do valor do original. Por outro lado, é um saco de papel."
+    },
+    {
+        "id": "item_04",
+        "nome": "Dominus Formidulosus",
+        "criador": "Roblox Corporation",
+        "categoria": "Item",
+        "subcategoria": "Roblox",
+        "icone": "🚀",
+        "imagem_color": "#EAB308",
+        "descricao": "Veni, vidi, territus."
+    },
+    {
+        "id": "item_05",
+        "nome": "Dominus Aureus",
+        "criador": "Roblox Corporation",
+        "categoria": "Item",
+        "subcategoria": "Roblox",
+        "icone": "🚀",
+        "imagem_color": "#EAB308",
+        "descricao": "Non teneas aurum totum quod splendet ut aurum. Este item saiu do Muneris Aureus Dev Ex em 18 de dezembro de 2013."
+    },
+    {
+        "id": "item_06",
+        "nome": "Dominus Praefectus",
+        "criador": "Roblox Corporation",
+        "categoria": "Item",
+        "subcategoria": "Roblox",
+        "icone": "🚀",
+        "imagem_color": "#EAB308",
+        "descricao": "Veni Vidi Vici. Este item saiu do Donum Praefectus em 24 de outubro de 2016."
+    },
+    {
+        "id": "item_07",
+        "nome": "Dominus Rex",
+        "criador": "Roblox Corporation",
+        "categoria": "Item",
+        "subcategoria": "Roblox",
+        "icone": "🚀",
+        "imagem_color": "#EAB308",
+        "descricao": "A mari usque ad mare."
+    },
+    {
+        "id": "item_08",
+        "nome": "Dominus Vespertilio",
+        "criador": "Roblox Corporation",
+        "categoria": "Item",
+        "subcategoria": "Roblox",
+        "icone": "🚀",
+        "imagem_color": "#EAB308",
+        "descricao": "Mors Ultima Linea Rerum Est."
     }
 ]
