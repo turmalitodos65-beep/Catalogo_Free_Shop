@@ -158,6 +158,7 @@
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Fazer a peça pessoalmente custa apenas 1/100 do valor do original. Por outro lado, é um saco de papel."
     },
@@ -168,6 +169,7 @@
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Veni, vidi, territus."
     },
@@ -178,6 +180,7 @@
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Non teneas aurum totum quod splendet ut aurum. Este item saiu do Muneris Aureus Dev Ex em 18 de dezembro de 2013."
     },
@@ -188,6 +191,7 @@
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Veni Vidi Vici. Este item saiu do Donum Praefectus em 24 de outubro de 2016."
     },
@@ -198,6 +202,7 @@
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "A mari usque ad mare."
     },
@@ -208,6 +213,7 @@
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Mors Ultima Linea Rerum Est."
     },
@@ -218,6 +224,7 @@
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Ut sementem feceris, ita metes."
     },
@@ -228,6 +235,7 @@
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Aeternum vale."
     },
@@ -238,6 +246,7 @@
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": true,
         "imagem_color": "#EAB308",
         "descricao": "Carpe noctem!"
     },
@@ -248,136 +257,150 @@
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": true,
         "imagem_color": "#EAB308",
         "descricao": "Aut vincere aut mori."
     },
     {
-        "id": "item_07",
+        "id": "item_13",
         "nome": "Dominus Infernus",
         "criador": "Roblox Corporation",
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": true,
         "imagem_color": "#EAB308",
         "descricao": "Sic transit gloria mundi..."
     },
     {
-        "id": "item_07",
+        "id": "item_14",
         "nome": "Dominus Empyreus",
         "criador": "Roblox Corporation",
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": true,
         "imagem_color": "#EAB308",
         "descricao": "Quidquid latine dictum sit, altum sonatur..."
     },
     {
-        "id": "item_07",
+        "id": "item_15",
         "nome": "Dominus Infinitum",
         "criador": "Roblox Corporation",
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Ab initio, ad vicesimus."
     },
     {
-        "id": "item_07",
+        "id": "item_16",
         "nome": "Dominus Palliolum",
         "criador": "Roblox Corporation",
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "A melhor defesa é o... É a armadura, na verdade. \n Receba este item exclusivo ao resgatar um código de um brinquedo Roblox! \nConfira os detalhes em roblox.com/toys"
     },
     {
-        "id": "item_07",
+        "id": "item_17",
         "nome": "Dominus Desperationis",
         "criador": "Roblox Corporation",
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Omnia Mors Aequat ou Acta, non verba."
     },
     {
-        "id": "item_07",
+        "id": "item_18",
         "nome": "Dominus Palliolum Preto",
         "criador": "Roblox Corporation",
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Receba este item exclusivo ao resgatar um código de um brinquedo Roblox! \n\n Confira os detalhes em www.roblox.com/toys"
     },
     {
-        "id": "item_07",
+        "id": "item_19",
         "nome": "Dominus Sombrio Sádico",
         "criador": "Roblox Corporation",
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Seja um dos poucos a obter este bônus ultrarraro de edição limitada de um brinquedo Roblox exclusivo da SDCC 2019!"
     },
     {
-        "id": "item_07",
+        "id": "item_20",
         "nome": "Asas duplas do Dominus",
         "criador": "Roblox Corporation",
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Brilhe mais forte que a competição com seu poder celestial! Receba este item exclusivo ao resgatar um código de um brinquedo Roblox! Confira os detalhes em roblox.com/toys"
     },
     {
-        "id": "item_07",
+        "id": "item_21",
         "nome": "Luz Azure do Dominus",
         "criador": "Roblox Corporation",
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Embora o dia possa estar cheio de dor, \n O sol vai subir sem refrão. \n As estrelas no céu ainda vão brilhar, \n E guia-nos através das noites mais sombrias. \n \n Há esperança além das lágrimas, \n E um futuro sem medos. \n A cada final, uma nova aventura se desdobra, \n Deixando para trás as histórias que contamos. \n \n Saiba que sempre tem um amanhã melhor. \n Com cada amanhecer, \n Um dia deve aparecer. \n Então vamos comemorar o céu azul hoje, \n para colocar todas as mágoas longe."
     },
     {
-        "id": "item_07",
+        "id": "item_22",
         "nome": "Dominus Sombrio Sádico FVM",
         "criador": "Roblox Corporation",
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "O Dominus Sombrio Sádico é o cara das lendas épicas. Ele existiu. Ele não existe. Será que o aluminiobô sabe a verdade? Vai saber..."
     },
     {
-        "id": "item_07",
+        "id": "item_23",
         "nome": "Dominus Venari",
         "criador": "Roblox Corporation",
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Venisti, vidisti, vicisti. Et ad victorem spolia!"
     },
     {
-        "id": "item_07",
+        "id": "item_24",
         "nome": "Dominus Claves",
         "criador": "Roblox Corporation",
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Uma recompensa especial para quem ajudou na criação da Aventura do Jogador Nº1 na Roblox!"
     },
     {
-        "id": "item_07",
+        "id": "item_25",
         "nome": "Broche de lapela Dominus manchado",
         "criador": "Roblox Corporation",
         "categoria": "Item",
         "subcategoria": "Roblox",
         "icone": "🚀",
+        "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Um sinal com marcas de luta, mas um sinal de valor, habilidade e de que você é incrível. Receba este item exclusivo ao resgatar um código de um brinquedo Roblox! Confira os detalhes em www.roblox.com/toys"
     }
