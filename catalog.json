@@ -405,5 +405,82 @@
         "multiplo": false,
         "imagem_color": "#EAB308",
         "descricao": "Um sinal com marcas de luta, mas um sinal de valor, habilidade e de que você é incrível. Receba este item exclusivo ao resgatar um código de um brinquedo Roblox! Confira os detalhes em www.roblox.com/toys"
+    },
+    {
+        "id": "item_26",
+        "nome": "Viridian Domino Crown",
+        "criador": "Roblox",
+        "categoria": "Item",
+        "subcategoria": "Roblox",
+        "icone": "🚀",
+        "multiplo": false,
+        "imagem_color": "#EAB308",
+        "descricao": "The classic shape in classically rare material. Classic²."
+    },
+    {
+        "id": "item_27",
+        "nome": "Counterfeit Domino Crown",
+        "criador": "Roblox",
+        "categoria": "Item",
+        "subcategoria": "Roblox",
+        "icone": "🚀",
+        "multiplo": true,
+        "imagem_color": "#EAB308",
+        "descricao": "Clearly not the real thing, but still inspires awe and makes the wearer look goofy."
+    },
+    {
+        "id": "item_28",
+        "nome": "Festive Domino Crown",
+        "criador": "Roblox",
+        "categoria": "Item",
+        "subcategoria": "Roblox",
+        "icone": "🚀",
+        "multiplo": false,
+        "imagem_color": "#EAB308",
+        "descricao": "Bring on the best festivities!"
+    },
+    {
+        "id": "item_29",
+        "nome": "Bloxxadore Domino Mask",
+        "criador": "Roblox",
+        "categoria": "Item",
+        "subcategoria": "Roblox",
+        "icone": "🚀",
+        "multiplo": false,
+        "imagem_color": "#EAB308",
+        "descricao": "For every hundred ninjas all in black there must be one hero who stands apart. One hero who is not afraid to be noticed. One hero who kicks blox and takes names. That hero is the Bloxxadore!"
+    },
+    {
+        "id": "item_30",
+        "nome": "Red Domino Crown",
+        "criador": "Roblox",
+        "categoria": "Item",
+        "subcategoria": "Roblox",
+        "icone": "🚀",
+        "multiplo": false,
+        "imagem_color": "#EAB308",
+        "descricao": "Deathless glory."
+    },
+    {
+        "id": "item_31",
+        "nome": "Domino Crown",
+        "criador": "Roblox",
+        "categoria": "Item",
+        "subcategoria": "Roblox",
+        "icone": "🚀",
+        "multiplo": false,
+        "imagem_color": "#EAB308",
+        "descricao": "This golden crown was awarded as a prize in the June 2007 Domino Rally Building Contest. Perhaps its most unique characteristic is its ability to inspire viewers with awe while at the same time making the wearer look goofy."
+    },
+    {
+        "id": "item_32",
+        "nome": "Bluesteel Domino Crown",
+        "criador": "Roblox",
+        "categoria": "Item",
+        "subcategoria": "Roblox",
+        "icone": "🚀",
+        "multiplo": false,
+        "imagem_color": "#EAB308",
+        "descricao": "The classic shape in classic material. Classic."
     }
 ]
